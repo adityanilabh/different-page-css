@@ -1,0 +1,3 @@
+link is also used to go to a specific section of a page.it can be done through <a href="#id_name">. id name is of p,h,table etc.
+
+for dead link, simply put a href="#" and then the link will become a dead link.

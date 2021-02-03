@@ -1,0 +1,9 @@
+css margin is used to give space of a border block form different sides of the screen.
+
+
+Property	Description
+margin	A shorthand property for setting the margin properties in one declaration
+margin-bottom	Sets the bottom margin of an element
+margin-left	Sets the left margin of an element
+margin-right	Sets the right margin of an element
+margin-top	Sets the top margin of an element

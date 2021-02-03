@@ -1,0 +1,12 @@
+specificity hierarchy:
+INLINE STYLES: an inline style is attached directly to the element to be styled. example: <h1 style="color: #ffffff;">
+IDs- An ID is a unique identifiers for the page element such as #navbar.
+Classes, attributes and pseudo-classes.= this includes .classes, and pseudo-classes like :hover, :after and so on.
+================================================
+h1{ background-color: yellow;}
+h1{background-color: red;}
+
+div#a {background-color: green;}
+#a {background-color: yellow;}
+div[id=a] {background-color: blue;}
+the first rule is more specific than the other two, and will be applied.

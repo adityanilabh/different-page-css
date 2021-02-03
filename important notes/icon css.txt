@@ -1,0 +1,12 @@
+simplest way to add icon is through font awesome.
+<script src="https://kit.fontawesome.com/yourcode.js"></script>
+look here how that thing is done.
+
+<i class="fas fa-cloud"></i>
+<i class="fas fa-heart"></i>
+
+BOOTSTRAP ICON
+<link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.7/css/bootstrap.min.css">
+
+GOOGLE ICON:
+<link rel="stylesheet" href="https://fonts.googleapis.com/icon?family=Material+Icons">

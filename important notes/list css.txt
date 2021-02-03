@@ -1,0 +1,69 @@
+list-style-type property specifies the type of list item marker.
+the following example shows some of the available list item markers.
+
+
+ul.a {
+  list-style-type: circle;
+}
+
+ul.b {
+  list-style-type: square;
+}
+
+ol.c {
+  list-style-type: upper-roman;
+}
+
+ol.d {
+  list-style-type: lower-alpha;
+}
+==================================================
+list-style-image: url('sqpurple.gif');
+==================================================
+positioning:
+
+ul.a {
+  list-style-position: outside;
+}
+
+ul.b {
+  list-style-position: inside;
+}
+
+===================================================
+removing default settings:
+
+ul{
+list-style-type:none;
+margin:0;
+padding:0;
+}
+=============================================
+ul{
+list-style: square inside url('........');
+} // this is a shorthand property.
+
+
+================================================
+DO TRY TO RUN THIS CODE:
+
+ol {
+  background: #ff9999;
+  padding: 20px;
+}
+
+ul {
+  background: #3399ff;
+  padding: 20px;
+}
+
+ol li {
+  background: #ffe5e5;
+  padding: 5px;
+  margin-left: 35px;
+}
+
+ul li {
+  background: #cce5ff;
+  margin: 5px;
+}

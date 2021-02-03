@@ -1,0 +1,26 @@
+font-family:
+1. serif: just like new roman.
+2. sans-serif: like how we write.
+3.monospace: thoda thoda like sans-serif but it is usually bold type.
+4.cursive: imitating human writing.
+5.fantasy.
+
+font-family: "times new roman",times,serif;
+
+font-style: normal,italic, oblique etc.
+
+font-weight: normal,bold;
+=========================================
+font-size:40px/50px/504px etc;
+
+font-size: 2.5em;// 40px/16= 2.5em;
+font-size:1.875em:// 30px/16.
+text-size can be set with a vw unit,which means the "viewpoint width".
+that way the text size will follow  the size of the browser windows.
+<h1 style="font-size:10vw">hello world</h1>
+===============================================
+choosing font form google:
+in head column use:
+<link rel="stylesheet" href=""https://fonts.googleapis.com/css?family=Trirong">
+and then here you go.
+

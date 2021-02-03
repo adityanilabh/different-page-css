@@ -1,0 +1,17 @@
+instead of margin, padding is used for spacing of text or other things inside border.
+Here, the <div> element is given a width of 300px. However, the actual width of the <div> element will be 350px (300px + 25px of left padding + 25px of right padding):
+
+div {
+  width: 300px;
+  padding: 25px;
+}
+
+
+Property	Description
+padding	A shorthand property for setting all the padding properties in one declaration
+padding-bottom	Sets the bottom padding of an element
+padding-left	Sets the left padding of an element
+padding-right	Sets the right padding of an element
+padding-top	Sets the top padding of an element
+
+IF WIDTH AND PADDING ARE GIVEN THEN, IT MAY CAUSE RESULTANT WIDTH OF WIDTH +PADDING. TO AVOID IT, WE USE BOX-SIZING ATTRIBUTE TO HAVE INITIAL WIDTH.

@@ -1,0 +1,63 @@
+CSS BACKGROUND:
+ 
+background-color:
+background-image:
+background-repeat:
+background-attachment:
+background-position:
+
+
+div{
+background-color:green;
+opacity: 0.3;
+}
+
+div{
+background: rbga(0,128,9,0.4);
+}
+
+body{
+background-image: url("paper.gif");
+}
+
+image repeat is very important to repeat image horizontally and vertically.
+background-repeat: repeat-x;// horizontally repeat
+repeat-y: // vertically repeat;
+no-repeat;
+------------------------------------------------------------------------------
+body{
+background-image:url("img_tree.png");
+background-repeat:no-repeat;
+background-position: right top;
+margin- right: 300px;
+}
+
+
+---------------------------------------------------------------------
+body {
+  background-image: url("img_tree.png");
+  background-repeat: no-repeat;
+  background-position: right top;
+  margin-right: 200px;
+  background-attachment: local;
+}
+---------------------------------------------------------------------------
+.fixed-bg {
+  background-image: url("img_tree.gif");
+  min-height: 300px;
+  background-attachment: fixed;
+  background-position: center;
+  background-repeat: no-repeat;
+  background-size: auto;
+}
+
+==================================================
+background	Sets all the background properties in one declaration
+background-attachment	Sets whether a background image is fixed or scrolls with the rest of the page
+background-clip	Specifies the painting area of the background
+background-color	Sets the background color of an element
+background-image	Sets the background image for an element
+background-origin	Specifies where the background image(s) is/are positioned
+background-position	Sets the starting position of a background image
+background-repeat	Sets how a background image will be repeated
+background-size	Specifies the size of the background image(s)

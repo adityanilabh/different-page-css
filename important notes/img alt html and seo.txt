@@ -1,0 +1,3 @@
+<main> is useful for particular visualisation of a section to google search engine that make it look unique from others.
+
+<img> is SELF CLOSING tag and alt should be used for screen readers to improve accessibility and is displayed if the image fail to display.

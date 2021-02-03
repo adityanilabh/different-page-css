@@ -1,0 +1,17 @@
+css layout- the display property.
+
+display property is the most important css property for controlling layout.
+it decide how an element is displayed.
+default display value of most element is block or inline.
+
+inline: horizontal (link list in nav bar)
+block: vertical.(same as above)
+h1.hidden{
+visibility:hidden;
+}
+
+
+MAX-WIDTH:
+
+it is used for resizing a block as responsive and if max-width is some value, it won't increase above that value but may decreease as screen resizes. width and max-width has that above difference.
+

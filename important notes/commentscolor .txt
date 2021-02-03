@@ -1,0 +1,22 @@
+/* this is a single to multiple line comment. */== for html comment.
+<!-- this is for html comment-->
+
+
+-------------------------------------------------------------------
+CSS COLORS:
+style:  background-color: dodgerBlur
+CSS TEXT COLOR:
+
+color:  tomato;
+
+css border color:
+.class1{
+border: 2px solid tomato;
+}
+
+background-color: rgb(255,88,34);  // 0 to 255
+or                      : #ff6347; // 00 to ff;
+or                      : hsl(9,100%,64%);
+or                      : rgba(255,89,31,0.8);
+
+

@@ -1,0 +1,19 @@
+following properties are their:
+1.color
+2. alignment
+3. decoration
+4.spacing
+5.transformation
+6. shadow.
+
+text-transformation: uppercase, lowercase, capitalise etc;
+ text-decoration: used for removing or adding underline;
+
+
+TEXT SPACING:
+
+text- spacing: used for spacing of words.
+text-indet: used for spacing of words of first paragraph .
+line-height: 1.8-0.5 etc
+
+TEXT SHADOW: no use;.

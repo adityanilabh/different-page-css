@@ -1,0 +1,5 @@
+to allow user input in webpage:
+we use input types
+and we use <input type="text" required> here user will have to enter the text otherwise it won't accept.
+
+do learn about placeholder attribute.

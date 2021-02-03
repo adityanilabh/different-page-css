@@ -1,0 +1,15 @@
+blocks may be used as a list of links or others:
+so while writing, we may write it as:
+
+display: blocks{ this will display block in vertical poistion.}
+            inline{ this will display blocks in horizontal position and also list will change rows.}
+            inline-blocks{ this will display blocks in horizontal position and also it won't change rows. and also best suitable for links.
+
+=================================================
+CSS SYNTAX
+
+css syntax:
+it consist of:
+a. selector and b. declaration
+h{// selector
+color:/* property*/ blue;}// declaration.

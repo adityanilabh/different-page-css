@@ -1,0 +1,48 @@
+CSS ID SELECTOR
+
+#para1{....};// id name cannot be started with a number;
+
+CSS CLASS SELECTOR
+.center{
+....}
+ 
+WE MAY ALSO USE CSS CLASS SELECTOR HAVING DIFFERENT ATTRIBURTES WITH SAME CLASS AS:
+
+p.center{...}
+h1.class1{...}
+
+WE MAY ALSO WRITE IT AS:
+<p class=" center large"> this is a paragraph</p>
+<p class=" center"> this is other paragraph</p>
+here we may write class as
+
+.center{...}
+.large{...}
+---------------------------------------------------------------------------------
+
+
+*== universal selector
+
+-----------------------------------------------------------------------------------
+CSS GROUPING SELECTOR:
+
+ h1,h2,p,.cneter1{.........................}
+
+
+===============================================
+types of css insertion:
+a. external css
+b. internal css
+c. inline css;
+
+for external css:
+ <link rel=" stylesheet" href="mystyle.css"> 
+it will be inside head column.
+
+
+first priority is given to inline css , and then to external and internal css
+
+===============================================
+HOW TO MAKE A PARAGRAPH TEXT TO BE CONCENTRATED IN A FIXED AREA.?
+WE SHOULD LEARN ABOUT --MARGIN-- IN PARAGRAPH.
+margin-right and margin-left;
